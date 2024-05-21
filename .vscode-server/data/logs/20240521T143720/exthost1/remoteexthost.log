@@ -1,0 +1,21 @@
+2024-05-21 14:37:21.531 [info] Extension host with pid 476 started
+2024-05-21 14:37:21.531 [error] Error: EEXIST: file already exists, open '/root/.vscode-server/data/User/workspaceStorage/7357c8406dd7ab776bfe1fd154ad47e5/vscode.lock'
+2024-05-21 14:37:21.538 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/7357c8406dd7ab776bfe1fd154ad47e5/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-05-21 14:37:21.541 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/7357c8406dd7ab776bfe1fd154ad47e5/vscode.lock': The pid 748 appears to be gone.
+2024-05-21 14:37:21.541 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/7357c8406dd7ab776bfe1fd154ad47e5/vscode.lock': Deleting a stale lock.
+2024-05-21 14:37:21.556 [info] Lock '/root/.vscode-server/data/User/workspaceStorage/7357c8406dd7ab776bfe1fd154ad47e5/vscode.lock': Lock acquired.
+2024-05-21 14:37:21.590 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-21 14:37:21.647 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-21 14:37:21.648 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-21 14:37:21.835 [info] Eager extensions activated
+2024-05-21 14:37:21.835 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-21 14:37:21.836 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-21 14:37:22.786 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-21 14:37:22.787 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-05-21 14:37:22.787 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-05-21 14:37:43.881 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169
+2024-05-21 14:37:44.192 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169
+2024-05-21 14:37:46.693 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169
+2024-05-21 14:37:51.735 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169
+2024-05-21 14:37:56.776 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169
+2024-05-21 14:38:01.812 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1169

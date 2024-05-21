@@ -1,0 +1,26 @@
+2024-05-21 14:40:24.611 [info] Log level: Info
+2024-05-21 14:40:24.611 [info] Validating found git in: "git"
+2024-05-21 14:40:24.611 [info] Using git "2.34.1" from "git"
+2024-05-21 14:40:24.611 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-21 14:40:24.611 [info] > git rev-parse --git-dir --git-common-dir [35ms]
+2024-05-21 14:40:24.611 [info] Open repository: /root
+2024-05-21 14:40:24.611 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-21 14:40:24.611 [info] > git config --get commit.template [12ms]
+2024-05-21 14:40:24.622 [info] No remotes found in the git config file.
+2024-05-21 14:40:24.624 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-05-21 14:40:24.625 [warning] No such branch: main.
+2024-05-21 14:40:24.632 [info] > git rev-parse --show-toplevel [15ms]
+2024-05-21 14:40:24.643 [info] > git status -z -uall [12ms]
+2024-05-21 14:40:24.644 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-21 14:40:25.173 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-21 14:40:25.175 [info] > git config --get commit.template [207ms]
+2024-05-21 14:40:25.182 [info] No remotes found in the git config file.
+2024-05-21 14:40:25.183 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-21 14:40:25.183 [warning] No such branch: main.
+2024-05-21 14:40:25.195 [info] > git status -z -uall [7ms]
+2024-05-21 14:40:27.517 [info] > git check-ignore -v -z --stdin [1ms]
+2024-05-21 14:40:28.250 [info] > git config --get commit.template [1ms]
+2024-05-21 14:40:28.251 [info] No remotes found in the git config file.
+2024-05-21 14:40:28.255 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-21 14:40:28.256 [warning] No such branch: main.
+2024-05-21 14:40:28.266 [info] > git status -z -uall [6ms]
